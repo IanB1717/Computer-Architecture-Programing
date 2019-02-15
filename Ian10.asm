@@ -1,7 +1,7 @@
  .MODEL medium
  .STACK
  .DATA
-msg1 BYTE "Ian Berigan",13,10,"$"
+msg1 BYTE "Ian",13,10,"$"
  .CODE
  .STARTUP
  mov cx,10
