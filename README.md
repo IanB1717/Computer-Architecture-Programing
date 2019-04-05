@@ -11,3 +11,4 @@ Code used in my X86 Assembly Programming Labs for computer architecture
 9)App1.EXE is a stopwatch app which was developed by me to help me better understand event driven programming.
 10)cols.asm will print out my initals in the 10 colum on the 12 row and in two different colours.
 11)kt1.ams will increment a counter when the space bar is pressed it uses isr protocols to do this.
+12-16) all of the .ino files are little programmes which where created to run on arduino unio boards.They files when they are run will do what they say in the title one will turn on a led while a button is held down, one will toggle on and off an led when it is pressed, one will give the position of a potentiometer and print it to the termianl of the SDK and another will print it to the LCD display on the arduino, one other file will cause an attached led to blink continuaslly when run.
